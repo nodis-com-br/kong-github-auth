@@ -1,5 +1,5 @@
-local access = require "kong.plugins.github-auth.access"
-local exceptions = require "kong.plugins.github-auth.exceptions"
+local access = require "kong.plugins.kong-github-auth.access"
+local exceptions = require "kong.plugins.kong-github-auth.exceptions"
 
 local GitHubAuthHandler = {
     PRIORITY = 1001,

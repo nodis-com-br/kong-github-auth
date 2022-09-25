@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/nodis-com-br/kong-github-auth/compare/v1.0.0...v1.0.1) (2022-09-25)
+
+
+### Bug Fixes
+
+* renamed plugin folder to kong-github-auth ([ff5f3c5](https://github.com/nodis-com-br/kong-github-auth/commit/ff5f3c5c32c60277eb57e1a414f77ea872346184))
+
 ## 1.0.0 (2022-09-25)
 
 
